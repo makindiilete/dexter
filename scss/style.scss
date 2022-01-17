@@ -1,0 +1,132 @@
+.hover1:hover{
+  background: #c7d036;
+}
+.hover2:hover{
+  background: #c7d036;
+}
+.hover3:hover{
+  background: #c7d036;
+}
+.hover4:hover{
+  background: #c7d036;
+}
+.hover5:hover{
+  background: #c7d036;
+}
+.hover6:hover{
+  background: #c7d036;
+}
+.dropdown-hover:hover{
+  background: #686866;
+  color: #ffffff;
+}
+
+.fontt{
+  font-family: Raleway;
+}
+.info{
+  font-family: Raleway;
+  font-style: normal;
+}
+.number{
+  font-family: Raleway;
+  font-style: normal;
+}
+.navbar-toggler{
+  border-radius: 10px;
+}
+.nav-link.active{
+  border-left:#444 3px solid;
+}
+
+.store-drop{
+  color: #2a82a9;
+}
+.partner{
+  color: #2a82a9;
+}
+.radio-tv{
+  color: #2a82a9;
+}
+.events{
+  color: #2a82a9;
+}
+.about{
+  color: #2a82a9;
+}
+.line{
+  width: 100%;
+  margin: auto;
+  border-bottom:3px #c7d036 dashed; //This add a 1px thin line below the element and the width is 50% so it wont stretch across the whole page horizontally
+}
+.angle-up{
+  font-size: 2em;
+  color: #2a82a9 !important;
+}
+.p1{
+  color: #c7d036;
+}
+.fone{
+  color: #4bb2df;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+.submitbtn2{
+  border-radius: 20px; //corner radius
+  background: #c7d036;
+}
+.sub-banner{
+  width: 1349px;
+  height: 340px;
+}
+
+.store-banner{
+  width: 1110px;
+  height: 250px;
+}
+
+.card1{
+  width: 100px;
+  height: 100px;
+}
+
+.store-banner2{
+  width: 1110px;
+}
+
+.dark-overlay{
+  background-color:rgba(0,0,0,0.7);
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
+#video-play{
+  position:relative;
+  min-height:200px;
+  background:url('../img/videofly.jpg');
+  background-position: 0 -300px;
+  background-attachment: fixed;
+  text-align:center;
+  color:#fff;
+  a{
+    color:#fff;
+  }
+}
+
+.fa-video{
+  font-size: 55px;
+}
+
+.estoreimg{
+  width: 64px;
+  height: 64px;
+}
+
+
+
+
+
